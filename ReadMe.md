@@ -2,6 +2,10 @@
 
 Apply a decorator to all functions in a module.
 
+## Installation
+```sh
+pip install decorate-all
+```
 
 ## Example Usage
 
